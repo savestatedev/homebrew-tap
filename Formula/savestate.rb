@@ -1,8 +1,8 @@
 class Savestate < Formula
   desc "Time Machine for AI — encrypted backup, restore, and migration for AI agent state"
   homepage "https://savestate.dev"
-  url "https://registry.npmjs.org/@savestate/cli/-/cli-0.8.0.tgz"
-  sha256 "66d6924e941964f56a5944719025aeb3a1aba2358aadce1fa70bd8ed8d002a1b"
+  url "https://registry.npmjs.org/@savestate/cli/-/cli-0.9.0.tgz"
+  sha256 "5c6d2ea785eeae3f1048a2f71d3e0070cfbcb59fe1336403b2875317c69fd8c4"
   license "MIT"
 
   depends_on "node"
